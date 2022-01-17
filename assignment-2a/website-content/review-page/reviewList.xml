@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<customerReviews>
+    <review category="business">
+        <date>05. September 2020</date>
+        <customer>John Doe (Zoo Berlin)</customer>
+        <rating>5 of 5</rating>
+        <qoute>Perfect quality, extraordinary communication throughout the whole process!</qoute>
+    </review>
+    <review category="business">
+        <date>17. Juli 2020</date>
+        <customer>Mario Englers(Staatl. Park und Seenwirtschaft)</customer>
+        <rating>5 of 5</rating>
+        <qoute>Very good service.</qoute>
+    </review>
+    <review category="private">
+        <date>26. February 2021</date>
+        <customer>Karin Fielhauer</customer>
+        <rating>5 of 5</rating>
+        <qoute>Hat mich wirklich überzeugt!</qoute>
+    </review>
+    <review category="business">
+        <date>18. Mai 2021</date>
+        <customer>Jane Doe (Aquarium des Zoo Leipzig)</customer>
+        <rating>5 of 5</rating>
+        <qoute></qoute>
+    </review>
+    <review category="private">
+        <date>12. Dezember 2020</date>
+        <customer>Marcel Reich</customer>
+        <rating>4 of 5</rating>
+        <qoute>There were some minor damages to one plant. Not sure, if from transport.</qoute>
+    </review>
+</customerReviews>

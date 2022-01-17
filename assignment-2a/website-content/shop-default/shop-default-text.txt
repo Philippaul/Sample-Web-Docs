@@ -1,0 +1,16 @@
+
+This is the landmark page for the shop area. It should function as a divider for professional and private customers.
+
+There should not be much text (see below), but two big, distinct links to either area of the shop.
+
+
+*text begin*
+
+Herzlich Willkommen im Shop
+
+Um Ihnen ein möglichst optimales Einkauferlebnis zu garantieren bieten wir sowohl eine Einkaufbereich für Gechäftskunden und Privatkunden an. Natürlich sind Sie eingeladen sich in beiden Bereiche ausführlich umzusehen.
+
+<two big fields for the links to b2b and b2c easily distinguishable>
+
+
+*text end*

@@ -1,0 +1,30 @@
+
+This should be a page for photo references. I provide three photos with small description.
+
+First image (lilly pond indoors):
+Photo by <a href="https://freeimages.com/photographer/Kate006-59211">Kathryn Radmall</a> from <a href="https://freeimages.com">FreeImages</a>
+
+*text first image*
+
+Emers wachsendes Ensemble aus weißen Seerosen (Nymphaea alba) und Sumpf-Schwertlillien (Iris pseudacorus). Im schweizerischen Basel gelegenes Backen in der Orangerie des Wasserwächterwerkes Basel.
+
+*text end first image*
+
+
+Second image (fall stony lake):
+Photo by <a href="https://freeimages.com/photographer/bjearwicke-46112">Benjamin Earwicker</a> from <a href="https://freeimages.com">FreeImages</a>
+
+*text second image*
+
+Herbstliche Impressionen der amerikanische Teichrose (Nuphar advena), diverser Schilfgräser in süddeutschen Naumburger Parkreservoir.
+
+*text end second image*
+
+third image (small waterfall):
+Photo by <a href="https://freeimages.com/photographer/bjearwicke-46112">Benjamin Earwicker</a> from <a href="https://freeimages.com">FreeImages</a>
+
+*text second image*
+
+Teichrosen, Wasserlillien, Schilfgräser und Uferfarne am kleinen Naumburger Wasserfall.
+
+*text end second image*

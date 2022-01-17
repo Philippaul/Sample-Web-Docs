@@ -1,0 +1,2 @@
+
+The page should show the customer reviews as provided in the reviewList.xml file. No additional text is needed, it would be nice if there was some kind easy-to-catch representation of the indivdual ratings (5/5 bit more bigger next to the rating).

@@ -1,0 +1,16 @@
+
+This is the landmark page for the showroom area. Just like the default page for the shop area, here sould be a simple division for visitors who are interested in ponds and lakes stuff and aquaristic stuff (fish tanks)
+
+Again a short welcome and then the links to the specific 'showrooms'.
+
+
+*text begin*
+
+Sehen Sie sich ausführlich um!
+
+In unseren Online-Showrooms finden Sie eine kleine aber feine Auswahl an Pfalnzen, Wasserwelten, Unterwasser-Arealen und aquatischen Spezialitäten. Für alle auf deisen Seiten gezeigten Besipsiele wurden Pflanzen der Submer emers GmbH eingesetzt. Haben Sie Fragen zu Gattungen und Pflanzplänen oder einzelnen Wachstumsphasen der Pflanzung und des Zeitpunkts der Aufnahme der Fotos, dann fragen Sie uns direkt an.
+
+<two big fields for the links to ponds and fish tanks>
+
+
+*text end*

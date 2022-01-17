@@ -1,0 +1,18 @@
+Apparently there should be a online shop here. But for now the two paragraphs below should work as a dummy.
+
+There should be some kind of always visible part on this page with the contact email address for individual questions.
+
+*text begin*
+
+Herzlich Willkommen im Privatkunden-Shop der Submer Emers GmbH
+
+Hier beiten wir Ihnen eine exklusive Auswahl unseres Angebotes an Wasserpflanzen für Ihren Teich und See, sowie Ihr Aquairum und Aquascape. Im shop finden Sie zu jederzeit einen umfassende Auswahl an Pfanzen verschiedener Reifegrade, von in-vitro Schale über Bünde und kleine Töpfe bis hin zu unserer Spezialität: ausgereiften, großen Pflanzen mit ausgeprägtem Wurzelballen. Diese Pflanzen werden sofort zum neuen Liebling in Ihrer Unterwasserwelt. Im Gegensatz zu den bei unseren Mitbewerbern beliebten Pflanztöpfen werden diese Pflanzen ohne Gefahr der Entwurzelung und des Absterbens auf Grund Nährstoffmangels geliefert. (Fragen Sie auch unseren Pflanz- und Pflegeservice an!)
+
+
+Nur höchste Qualität genügt unseren Ansprüchen
+
+Wir garantieren, dass unsere Pflanzen bei Lieferung absolut Kranheitsfrei und besonders arm an Rückständen jeglicher Art sind, die zu einem Ungleichgewicht in Ihrem Ökosystem führen könnten. insbesondere bei unseren großen Spezialpflanzen mit ausgeprägtem Wurzelballen garantieren wir vollständige Freiheit von Pestizide und Umweltgiften, Schnecken, Insekten, Käfern und deren Gelegen. Unsere Großpflanzen können sofort in bestehende Backen und Teiche integriert werden und wir garantieren ein umfassendes Verwurzeln und ausgeprägtes Wachstum.
+
+Lassen Sie sich von der Erfahrung unserer zufriedenen Kunde überzeugen (*here should be a link to the review page*)
+
+*text end*
